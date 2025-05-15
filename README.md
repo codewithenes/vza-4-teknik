@@ -5,10 +5,10 @@ Bu repoda, **Veri Zarflama Analizi (VZA / DEA)** yöntemine ilişkin 4 farklı t
 
 ### İçerik
 
-* Girdi odaklı CCR modeli
-* Çıktı odaklı CCR modeli
-* Girdi odaklı BCC modeli
-* Çıktı odaklı BCC modeli
+* Girdi odaklı CCR modeli (IO_CRS)
+* Çıktı odaklı CCR modeli (OO_CRS)
+* Girdi odaklı BCC modeli (IO_VRS)
+* Çıktı odaklı BCC modeli (OO_VRS)
 
 ### Amaç
 
